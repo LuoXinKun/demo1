@@ -2,6 +2,6 @@
 
 import pandas as pd
 
-df = pd.read_csv("文件地址")
+df = pd.read_csv(path)
 
 print(df.head())
