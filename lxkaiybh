@@ -1,0 +1,5 @@
+#coding:utf-8
+niubi = "github"
+for i in range(3):
+   niubi = niubi+"6"
+print(niubi)   
