@@ -6,4 +6,5 @@ print(niubi)
 lxkai = "ybh"
 if lxkai == "ybh":
    print("alerdy")
-print("ten year ago again")   
+print("ten year ago again")
+print("the end")
