@@ -2,4 +2,7 @@
 niubi = "github"
 for i in range(3):
    niubi = niubi+"6"
-print(niubi)   
+print(niubi)
+lxkai = "ybh"
+if lxkai == "ybh":
+   print("alerdy")
